@@ -1,0 +1,27 @@
+{
+  "name": "guestlistnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "node appts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgekakarlis/guest-list-nodejs.git"
+  },
+  "author": "georgekakarlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgekakarlis/guest-list-nodejs/issues"
+  },
+  "homepage": "https://github.com/georgekakarlis/guest-list-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
